@@ -2,6 +2,9 @@
 
 In this project we create a mysql database and run queries on it to better understand SQL.
 
+To initialise the project use
+`docker compose -f ./mysql-docker-compose.yml up --build`
+
 # Commands
 
 -   To spin up the projects follow the following steps
